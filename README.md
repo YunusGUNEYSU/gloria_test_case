@@ -2,25 +2,31 @@
 
 # Login Screen
 
-![Screenshot_1700423143](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/1fd2fa61-7991-40ad-97e0-9eae42d9686c)
+![login](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/3740f98c-f256-4938-ac19-a20b76675cf8)
+
 
 # Register Screen
 
-![Screenshot_1700423146](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/6cd8a3ba-7ce6-4639-8370-9dd0d1228f15)
+![register](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/779066ee-a9aa-4491-bb49-22012cbaa623)
+
 
 # Home Screen
-![Screenshot_1700423115](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/79e2cc2c-dd3c-46d1-8796-ebdae200e3e1)
+![home](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/b7750427-139a-48b3-b12f-7233bb10307a)
+
 
 # Event Screen
 
-![Screenshot_1700423139](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/ebbeff47-8090-40c7-b4fb-4e07e50baf1c)
+![events](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/7a005f47-7208-4b84-b376-a7569a3ec3aa)
+
 
 # Home Detail
 
-![Screenshot_1700423120](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/6be3950e-5fc9-4957-82d1-6f4f8416bba5)
+![home_detail](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/0df33eef-abb8-4986-9c6b-0a2d3d3d6fd5)
+
 
 # Dashboard
-![dashboard3](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/73fb57e3-6084-41fe-aed0-5dd89794b7bf)
 
-![dashboard](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/270d8206-ab4a-4678-b7aa-2431efd4aef0)
+![dashboard](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/763fd061-4f91-4e70-a8d7-b5651e6736f5)
+
+![dashboard3](https://github.com/YunusGUNEYSU/gloria_test_case/assets/39588697/e9c856e9-4b0d-4bc8-abb7-952810ba5060)
 
